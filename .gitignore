@@ -1,0 +1,15 @@
+# Node / Express
+**/node_modules/
+.env
+
+# Android / Gradle
+*.iml
+.gradle/
+local.properties
+.idea/
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
