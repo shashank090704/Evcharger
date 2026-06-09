@@ -1,0 +1,18 @@
+{
+  "name": "evcharge-express-backend",
+  "version": "1.0.0",
+  "description": "Full Express backend for the EvoCharge app",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node --watch src/app.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.2",
+    "express": "^4.19.2",
+    "mongoose": "^9.8.0"
+  }
+}
