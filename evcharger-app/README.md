@@ -22,10 +22,22 @@ This project is actively being improved to provide a better EV charging experien
 
 ## Screenshots
 A few highlights from the app experience:
-- Onboarding screen
-- Sign up and sign in screens
-- Dashboard and map view
-- Station details and profile screens
+
+![Onboarding Screen](https://user-images.githubusercontent.com/94394661/278996958-22610d6e-b90d-4afa-8f98-392baba22a6b.jpg)
+
+![Sign Up Screen](https://user-images.githubusercontent.com/94394661/278998154-6a1a5166-1046-43e7-8452-acdc51c17ded.jpg)
+
+![Sign In Screen](https://user-images.githubusercontent.com/94394661/278998848-910b5424-a478-4d2a-a696-210b2597187e.jpg)
+
+![Dashboard Screen](https://user-images.githubusercontent.com/94394661/279000635-7e4419f4-0a6f-456a-8dba-ae6fcc6e3d18.jpg)
+
+![Map Screen](https://user-images.githubusercontent.com/94394661/279002478-ae492d73-df32-4d24-b745-13ebf3c46c61.jpg)
+
+![Station List Screen](https://user-images.githubusercontent.com/94394661/279002633-51418fe0-67e5-4321-8f6a-868ec25f8f8f.jpg)
+
+![Station Detail Screen](https://user-images.githubusercontent.com/94394661/279002773-8ea315ad-dfca-4006-9ca2-6d9274bc8420.jpg)
+
+![Profile Screen](https://user-images.githubusercontent.com/94394661/279002969-0c4f770e-1075-4b94-8079-4d9a9366ff1e.jpg)
 
 ## Getting Started
 1. Clone the repository
