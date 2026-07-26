@@ -1,5 +1,7 @@
 # ⚡ EvoCharge — EV Charging Station Locator & Management System
 
+![Cover Header](https://user-images.githubusercontent.com/94394661/278870241-7a5ce87a-ce34-417d-bcea-1b2025cf2854.png)
+
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-v4.19-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -10,7 +12,41 @@
 
 ---
 
-## 📱 System Architecture
+## 📱 Mobile Application Screenshots & UI Showcase
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94394661/278996958-22610d6e-b90d-4afa-8f98-392baba22a6b.jpg" width="28%"/>
+  <img src="https://user-images.githubusercontent.com/94394661/278998154-6a1a5166-1046-43e7-8452-acdc51c17ded.jpg" width="28%"/>
+  <img src="https://user-images.githubusercontent.com/94394661/278998848-910b5424-a478-4d2a-a696-210b2597187e.jpg" width="28%"/>
+</p>
+<p align="center">
+  <b>Onboarding</b> • <b>Sign Up</b> • <b>Sign In</b>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94394661/279000635-7e4419f4-0a6f-456a-8dba-ae6fcc6e3d18.jpg" width="28%"/>
+  <img src="https://user-images.githubusercontent.com/94394661/279002478-ae492d73-df32-4d24-b745-13ebf3c46c61.jpg" width="28%"/>
+  <img src="https://user-images.githubusercontent.com/94394661/279002633-51418fe0-67e5-4321-8f6a-868ec25f8f8f.jpg" width="28%"/>
+</p>
+<p align="center">
+  <b>Dashboard</b> • <b>Interactive Map</b> • <b>Station List</b>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94394661/279002773-8ea315ad-dfca-4006-9ca2-6d9274bc8420.jpg" width="28%"/>
+  <img src="https://user-images.githubusercontent.com/94394661/279002969-0c4f770e-1075-4b94-8079-4d9a9366ff1e.jpg" width="28%"/>
+</p>
+<p align="center">
+  <b>Station Details</b> • <b>User Profile</b>
+</p>
+
+---
+
+## 🏗️ System Architecture
 
 ```
 Evcharger/
